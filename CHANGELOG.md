@@ -1,5 +1,15 @@
 # @primer/css
 
+## 17.6.0
+
+### Minor Changes
+
+- [#1529](https://github.com/primer/css/pull/1529) [`dca8e0ae`](https://github.com/primer/css/commit/dca8e0aeccb326c2bafff1ec86a912987b224f32) Thanks [@vdepizzol](https://github.com/vdepizzol)! - Improve font rendering on Linux
+
+### Patch Changes
+
+- [#1528](https://github.com/primer/css/pull/1528) [`303cacae`](https://github.com/primer/css/commit/303cacae77244a9e0de02b4caee2a8c01097aced) Thanks [@koddsson](https://github.com/koddsson)! - Convert package to a ES module
+
 ## 17.5.2
 
 ### Patch Changes
